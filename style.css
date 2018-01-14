@@ -1,0 +1,49 @@
+body{margin: 0px;}
+#header{width: 100%;height: 130px;background-color: beige;top: 0px;position: absolute;}
+#logo{width: 30%;height: 130px;top: 0px;position: absolute;}
+#logo img{width: 100%;height: 130px;}
+#banner{width: 70%;height: 130px;top: 0px;position: absolute;margin-left: 30%;}
+#banner img{width: 100%;height: 130px;}
+#menu{width: 100%;height: 90px;background-color: #147621;top: 130px;position: absolute;}
+#menu a{text-decoration: none;color: white;font-size: 17px;margin-left: 20px;padding:20px 20px; float: left;}
+#menu a:hover{background-color: white;color: black;border-radius: 50%;}
+#cont{width: 100%;height: 600px;top: 220px;position: absolute;background-color: #969696;}
+#headPhoneImage{width: 25%;height: 500px;top: 80px;position: absolute;}
+#headPhoneImage img{width: 100%;height: 250px;border-radius: 50%;}
+
+#clock{width: 25%;height: 500px;margin-left: 25%;top: 80px;position: absolute;}
+#clock img{width: 100%;height: 250px;border-radius: 50%;}
+
+#bag{width: 25%;height: 500px;margin-left: 50%;top: 80px;position: absolute;}
+#bag img{width: 100%;height: 250px;border-radius: 50%;}
+
+#sun{width: 25%;height: 500px;margin-left: 75%;top: 80px;position: absolute;}
+#sun img{width: 100%;height: 250px;border-radius: 50%;}
+
+#cont h1{text-align: center;color: #FEFEFE;}
+#cont p{text-align: center;color: #FEFEFE;}
+#cont mark{background-color: #F8FF16;color: black;}
+#headPhoneImage button{align-items: center;justify-content: center;display: flex;}
+#footer{width: 100%;height: 130px;top: 820px;position: absolute;background-color: #2C3E50;color: white;text-align: center;}
+ #icon-file{background-color: #2C3E50;}
+#icon-file i{font-size: 30px;color: black;padding: 5px 10px 10px 10px;border-radius: 50%;background-color: white;}
+ #icon-file i:hover{background-color: black;color: red;} 
+#contid{text-align: center;color: white;}
+#leftside{width: 70%;height: 900px;top: 0px;position: absolute;background-color: #FFFFFF;}
+#objective{border: 1px solid white;width: 30%;height: 60px;background-color: #EBEEF5;margin-top: 7%;margin-left: 9%;}
+#objective h1{text-align: center;}
+#obj{margin-left: 9%;width: 61%;height: 50px;}
+#experience{border: 1px solid white;width: 30%;height: 60px;background-color: #EBEEF5;margin-top: 5%;margin-left: 9%;}
+#experience h1{text-align: center;}
+#exlist{width: 61%;height: 230px;margin-left: 9%;}
+#achivement{border: 1px solid white;width: 30%;height: 60px;background-color: #EBEEF5;margin-top: 5%;margin-left: 9%;}
+#achivement h1{text-align: center;}
+#achList{width: 61%;height: 50px;margin-left: 9%;}
+
+#rightSide{width: 30%;height: 900px;top: 0px;position: absolute;margin-left: 70%;background-color: #5AAAC3;}
+#proImg{border: 1px solid white;width: 80%;height: 200px;margin-left: 10%;margin-top: 10%;}
+#proImg img{width: 100%;height: 200px;}
+#name{border: 1px solid white;width: 85%;height: 50px;background-color: #C5D1E7;margin-left: 8%;margin-top: 5%;}
+#name h2{text-align: center;}
+#professionSkill{width: 90%;height: 200px;border: 1px solid white; margin-left: 5%;margin-top: 5%;background-color: white;}
+#education{width: 90%;height: 200px;border: 1px solid white; margin-left: 5%;background-color: #C2D0E5;}
